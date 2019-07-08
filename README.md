@@ -66,12 +66,12 @@
 # Cara Menjalankan Bot Kembali :
 
 # Di C9 :
-# cd reymia
-# python3 rey.py
+# cd Protect-SelfBot
+# python3 pro-self.py
 
 # Di Termux :
-# cd reymia
-# python3 rey.py
+# cd Protect-SelfBot
+# python3 pro-self.py
 
 
 # EDITOR BY INDO BOT ALIANSI
