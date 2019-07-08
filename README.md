@@ -1,12 +1,11 @@
-# REY SEBASTIAN
+# INDO BOT ALIANSI KILLER
 # GHOST HUNTER DEATH
 # BOT PROTECT ANTI JS
 # 1 ADMIN + 4 ASIST
 # jangan gunakan untuk merugikan orang lain
 # jika ada yang ingin ditanyakan bisa add saya
-# id line saya: rey_tlangu
+# id line saya: http://line.me/ti/p/~zulfahmi78
 # saling berbagi ilmu
-# YOUTUBE: https://www.youtube.com/channel/UCiaIqkq-haV6TTDbATDRIOQ
 #
 # GHDPROTECTION
 # CARA INSTALL BOTNYA ADA DI BAWAH
@@ -39,9 +38,9 @@
 # sudo pip3 install wikipedia
 # sudo pip3 install tweepy
 # sudo pip3 install youtube_dl
-# git clone https://github.com/reysebastian/reymia
-# cd reymia
-# python rey.py
+# git clone https://github.com/Zulfahmi-py3/Protect-SelfBot
+# cd Protect-SelfBot
+# python pro-self.py
 
 # INSTALL Di TERMUX :
 # pkg update
@@ -60,9 +59,9 @@
 # pip3 install wikipedia
 # pip3 install youtube_dl
 # pip3 install tweepy
-# git clone https://github.com/reysebastian/reymia
-# cd reymia
-# python3 rey.py
+# git clone https://github.com/Zulfahmi-py3/Protect-SelfBot
+# cd Protect-SelfBot
+# python3 pro-self.py
 
 # Cara Menjalankan Bot Kembali :
 
@@ -75,9 +74,10 @@
 # python3 rey.py
 
 
-# EDITOR BY REY SEBASTIAN
+# EDITOR BY INDO BOT ALIANSI
+# Owner: Z U L F A H M I 
 
-# Add My ID LINE : rey_tlangu
+# Add My ID LINE : http://line.me/ti/p/~zulfahmi78
 # GHOST HUNTER DEATH TEAM BOT
 
 
